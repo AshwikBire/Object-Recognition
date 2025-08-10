@@ -95,6 +95,7 @@ elif input_mode == "Capture Image With Camera":
 
 st.markdown("---")
 st.markdown(
-    "<center style='color:#ccc'>Built with <b>Streamlit</b> </b> 
+    "<center style='color:#ccc'>Built with <b>Streamlit</b></center>",
     unsafe_allow_html=True
 )
+
