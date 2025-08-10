@@ -19,7 +19,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🦾 Object Detection — YOLOv8 (Dark Mode Enhanced)")
+st.title("Object Detection")
 
 # Sidebar controls
 st.sidebar.header("Input Controls")
@@ -95,6 +95,6 @@ elif input_mode == "Capture Image With Camera":
 
 st.markdown("---")
 st.markdown(
-    "<center style='color:#ccc'>Built with <b>Streamlit</b> & <b>YOLOv8</b> • Supports dark theme & live image capture</center>",
+    "<center style='color:#ccc'>Built with <b>Streamlit</b> </b> 
     unsafe_allow_html=True
 )
