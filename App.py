@@ -95,7 +95,7 @@ elif input_mode == "Capture Image With Camera":
 
 st.markdown("---")
 st.markdown(
-    "<center style='color:#ccc'>Built By Ashwik Bire<b>Streamlit</b></center>",
+    "<center style='color:#ccc'>Built By Ashwik Bire</center>",
     unsafe_allow_html=True
 )
 
